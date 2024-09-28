@@ -1,0 +1,14 @@
+Step 1: Clone the Repo.(use VS Code)
+Step 2: Install Node.js: If you dont have Node.js installed, download and install it from here.
+        Node.js will allow you to run JavaScript code on your machine.
+Step 3: Sign up for twilio:
+        > Go to Twilio and create an account.
+        > Once you have an account, navigate to the Twilio Console.
+Step 4: Activate Twilio WhatsApp Sandbox:
+        > In the Twilio Console, find the Programmable Messaging section.
+        > Activate the WhatsApp Sandbox by following the instructions to send a message like "join <code>" to the given Twilio number.
+Step 5: Install "npm install imap-simple twilio dotenv"
+Step 6: Fill all the values in .env file from twilio.
+Step 7: Run the Project "node index.js"
+
+# If any problem drop a mail at deathriderga46@gmail.com #
